@@ -1,0 +1,22 @@
+C:\Users\ANANTHAN\source\repos\GWInstekPS\GWInstekPS\obj\Debug\GWInstekPS.csproj.AssemblyReference.cache
+C:\Users\ANANTHAN\source\repos\GWInstekPS\GWInstekPS\obj\Debug\GWInstekPS.Properties.Resources.resources
+C:\Users\ANANTHAN\source\repos\GWInstekPS\GWInstekPS\obj\Debug\GWInstekPS.csproj.GenerateResource.cache
+C:\Users\ANANTHAN\source\repos\GWInstekPS\GWInstekPS\obj\Debug\GWInstekPS.csproj.CoreCompileInputs.cache
+C:\Users\ANANTHAN\source\repos\GWInstekPS\GWInstekPS\bin\Debug\GWInstekPS.dll.config
+C:\Users\ANANTHAN\source\repos\GWInstekPS\GWInstekPS\bin\Debug\GWInstekPS.dll
+C:\Users\ANANTHAN\source\repos\GWInstekPS\GWInstekPS\bin\Debug\GWInstekPS.pdb
+C:\Users\ANANTHAN\source\repos\GWInstekPS\GWInstekPS\obj\Debug\GWInstekPS.dll
+C:\Users\ANANTHAN\source\repos\GWInstekPS\GWInstekPS\obj\Debug\GWInstekPS.pdb
+D:\Procyon\C# Migration\C# Migration (Plugin)\ProjectCode_Project\Template_SourceCode\DriverLayer\GWInstekPS\GWInstekPS\bin\Debug\GWInstekPS.dll.config
+D:\Procyon\C# Migration\C# Migration (Plugin)\ProjectCode_Project\Template_SourceCode\DriverLayer\GWInstekPS\GWInstekPS\bin\Debug\GWInstekPS.dll
+D:\Procyon\C# Migration\C# Migration (Plugin)\ProjectCode_Project\Template_SourceCode\DriverLayer\GWInstekPS\GWInstekPS\bin\Debug\GWInstekPS.pdb
+D:\Procyon\C# Migration\C# Migration (Plugin)\ProjectCode_Project\Template_SourceCode\DriverLayer\GWInstekPS\GWInstekPS\bin\Debug\serialDriver.dll
+D:\Procyon\C# Migration\C# Migration (Plugin)\ProjectCode_Project\Template_SourceCode\DriverLayer\GWInstekPS\GWInstekPS\bin\Debug\serialDriver.pdb
+D:\Procyon\C# Migration\C# Migration (Plugin)\ProjectCode_Project\Template_SourceCode\DriverLayer\GWInstekPS\GWInstekPS\bin\Debug\serialDriver.dll.config
+D:\Procyon\C# Migration\C# Migration (Plugin)\ProjectCode_Project\Template_SourceCode\DriverLayer\GWInstekPS\GWInstekPS\obj\Debug\GWInstekPS.csproj.AssemblyReference.cache
+D:\Procyon\C# Migration\C# Migration (Plugin)\ProjectCode_Project\Template_SourceCode\DriverLayer\GWInstekPS\GWInstekPS\obj\Debug\GWInstekPS.Properties.Resources.resources
+D:\Procyon\C# Migration\C# Migration (Plugin)\ProjectCode_Project\Template_SourceCode\DriverLayer\GWInstekPS\GWInstekPS\obj\Debug\GWInstekPS.csproj.GenerateResource.cache
+D:\Procyon\C# Migration\C# Migration (Plugin)\ProjectCode_Project\Template_SourceCode\DriverLayer\GWInstekPS\GWInstekPS\obj\Debug\GWInstekPS.csproj.CoreCompileInputs.cache
+D:\Procyon\C# Migration\C# Migration (Plugin)\ProjectCode_Project\Template_SourceCode\DriverLayer\GWInstekPS\GWInstekPS\obj\Debug\GWInstekPS.csproj.CopyComplete
+D:\Procyon\C# Migration\C# Migration (Plugin)\ProjectCode_Project\Template_SourceCode\DriverLayer\GWInstekPS\GWInstekPS\obj\Debug\GWInstekPS.dll
+D:\Procyon\C# Migration\C# Migration (Plugin)\ProjectCode_Project\Template_SourceCode\DriverLayer\GWInstekPS\GWInstekPS\obj\Debug\GWInstekPS.pdb
